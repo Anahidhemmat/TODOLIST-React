@@ -10,7 +10,7 @@ const getInitialTodo = () => {
 };
 
 const initialValue = {
-  firstFilter: "all",
+  filterStatus: "all",
   todoList: getInitialTodo(),
 };
 
